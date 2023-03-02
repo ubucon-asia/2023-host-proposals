@@ -1,6 +1,11 @@
 # 2023-host-proposals
 UbuCon Asia 2023 proposal to host documents
 
+## Proposal guidelines
+Make sure to read the guideline before reviewing proposals. When reviewing proposals, please check if proposal documents have sufficient information that the guideline requires.
+
+[Read Proposal guidelines](https://discourse.ubuntu.com/t/ubucon-asia-2023-call-for-hosts/32904?u=sukso96100)
+
 ## Indonesia
 
 - Location: Surakarta or Malang
